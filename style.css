@@ -1,0 +1,91 @@
+.body{
+	text-align: center;
+	margin: 40px auto;
+	padding: 15px;
+	background-color: #808080;
+}
+#akram{
+	font-family: sans-serif;
+	color:black;
+	border: 3px solid black;	
+    box-shadow:inset 0px 0px 0px 2px black;
+    padding: 10px 10px 10px 10px;
+   
+	
+}
+#brighet{
+	color:black;
+}
+#ou{
+	border: 5px solid black;
+	font-size: 50px;
+
+}
+.brighet3{
+	box-shadow:inset 0px 0px 0px 1px black;
+    border: 3px solid black;
+}
+
+.brighet2{
+    
+	box-shadow:inset 0px 0px 0px 2px black;
+	
+	
+}   
+.minecraft2{
+	border: 5px solid black;
+
+}
+
+.op{
+	padding: 10px 10px 10px 10px;
+
+}
+#aouab{
+	padding: 10px 10px 10px 10px;
+}
+#aouab2{
+	padding: 10px 10px 10px 10px;
+}
+
+
+#batata{
+	padding:10px 10px 10px 10px;
+}
+.achraf{
+	padding: 10px 10px 10px 10px;
+}
+.oustoura{
+	padding: 10px 10px 10px 10px;
+}
+
+a {text-decoration: none;}
+a:link, a:visited { color: #4bcffa;}
+a:hover, a:active { color: #3B3B98;}
+
+
+.mainheader nav ul{
+	text-align: center;
+	list-style: none;
+	margin: 0 auto;
+	
+}
+.mainheader nav ul li{
+	display: inline;
+	padding-bottom: 10px ;
+}
+.mainheader a:link, .mainheader a:visited{
+	color:black;
+	padding: 10px 40px;
+	display: inline-block;
+	height: 20px;
+
+	
+}
+.mainheader a:hover, .mainheader a:active{
+	color:#3B3B98;
+	background-color:#3B3B98;
+	text-shadow:1px 1px#000;
+
+	
+}
